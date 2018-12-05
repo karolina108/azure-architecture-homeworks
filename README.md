@@ -1,6 +1,7 @@
-###Linki do prac domowych (dostępne dla osób z grupy na FB)
+### Linki do prac domowych (dostępne dla osób z grupy na FB)
 
 Tydzień 2: Wzorce architektoniczne
+
 https://www.facebook.com/groups/496118867464879/permalink/500916693651763/
 
 Tydzień 3: ARM
