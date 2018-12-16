@@ -44,3 +44,6 @@ Tydzień 11:
 TODO
 
 Tydzień 12:
+
+https://www.facebook.com/groups/496118867464879/permalink/533929040350528/
+https://github.com/karolina108/azure-iot-device-simulator
