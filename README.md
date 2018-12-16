@@ -36,3 +36,11 @@ https://github.com/karolina108/azure-architecture-homeworks-db-functions
 Tydzień 9: Networks
 
 https://www.facebook.com/groups/496118867464879/permalink/527440120999420/
+
+Tydzień 10:
+TODO
+
+Tydzień 11:
+TODO
+
+Tydzień 12:
