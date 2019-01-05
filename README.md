@@ -41,9 +41,13 @@ Tydzień 10:
 TODO
 
 Tydzień 11:
-TODO
+https://www.facebook.com/groups/496118867464879/permalink/544651765944922/
+https://github.com/karolina108/azure-image-moderator
 
 Tydzień 12:
 
 https://www.facebook.com/groups/496118867464879/permalink/533929040350528/
 https://github.com/karolina108/azure-iot-device-simulator
+
+Tydzień 13:
+TODO
